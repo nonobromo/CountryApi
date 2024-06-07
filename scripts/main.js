@@ -7,5 +7,3 @@ createAllCards();
 saveCountry()
 loadSaved();
 
-console.log(countries)
-
